@@ -3,7 +3,7 @@
 //  ksCollectionView
 //
 //  Created by Jay P. Hayes on 11/12/16.
-//  Copyright © 2016 Jay P. Hayes. All rights reserved.
+//  Copyright © 2016 Jay P. Hayes. All rights reserved....
 //
 
 
